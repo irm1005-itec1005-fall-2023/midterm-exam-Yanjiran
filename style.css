@@ -50,10 +50,33 @@ body {
   padding: 1.5rem;
 }
 
+#coffeeImg {
+  object-fit: cover;
+  height: ;
+
+}
+
 #hotDrinks {
+  color: #b4885c ;
+}
+
+.fontColor {
   color: #b4885c;
 }
 
-#price {
-  
+.bigHeading {
+  font-size: 2.2rem;
+  color
 }
+
+#price {
+  color: #b4885c;
+  font-size: 2.2rem;
+}
+
+.button {
+  margin: 2rem;
+  background-color: black;
+  color: #b4885c;
+}
+

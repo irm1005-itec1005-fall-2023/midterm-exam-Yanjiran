@@ -40,10 +40,20 @@ body {
   margin: 5rem;
 }
 
+#card {
+  display: block;
+  border-radius: 2rem;
+}
 
 .content {
   background-color: rgb(255, 251, 251);
   padding: 1.5rem;
 }
 
-#BPO
+#hotDrinks {
+  color: #b4885c;
+}
+
+#price {
+  
+}

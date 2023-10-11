@@ -28,10 +28,22 @@
  *  https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit
  */
 
+
+
 html {
   font-size: 1.0rem;
 }
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  background-color: #e6ccb2;
+  margin: 5rem;
 }
+
+
+.content {
+  background-color: rgb(255, 251, 251);
+  padding: 1.5rem;
+}
+
+#BPO
